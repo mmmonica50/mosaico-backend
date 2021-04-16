@@ -1,4 +1,4 @@
-[![herokubtn](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/goodenough/mosaico-backend/tree/release)
+[![herokubtn](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mmmonica50/mosaico-backend)
 
 - Heroku button page: https://elements.heroku.com/buttons/goodenough/mosaico-backend
 
